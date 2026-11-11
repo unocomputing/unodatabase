@@ -1,0 +1,85 @@
+#1:
+OK, 11 rows affected in 26.446ms
+#2:
+OK, 3 rows affected in 6.257ms
+#3:
+OK, 8 rows affected in 8.148ms
+#4:
+OK, 5 rows affected in 5.878ms
+#5:
+OK, 2 rows affected in 11.572ms
+#6:
+OK, 2 rows affected in 5.586ms
+#7:
+OK, 1 row affected in 6.015ms
+#8:
+OK, 4 rows affected in 6.409ms
+#9:
+OK, 3 rows affected in 6.885ms
+#10:
+OK, 9 rows affected in 7.421ms
+#11:
+OK, 5 rows affected in 7.358ms
+#12:
+OK, 14 rows affected in 7.034ms
+#13:
+OK, 4 rows affected in 5.861ms
+#14:
+OK, 4 rows affected in 5.895ms
+#15:
+OK, 6 rows affected in 5.853ms
+#16:
+OK, 4 rows affected in 5.684ms
+#17:
+OK, 7 rows affected in 6.273ms
+#18:
+OK, 3 rows affected in 5.781ms
+#19:
+OK, 4 rows affected in 6.214ms
+#20:
+OK, 8 rows affected in 5.892ms
+#21:
+OK, 7 rows affected in 7.472ms
+#22:
+OK, 9 rows affected in 6.382ms
+#23:
+OK, 3 rows affected in 6.401ms
+#24:
+OK, 4 rows affected in 6.208ms
+#25:
+OK, 4 rows affected in 6.17ms
+#26:
+OK, 4 rows affected in 9.14ms
+#27:
+OK, 8 rows affected in 7.421ms
+#28:
+OK, 5 rows affected in 6.234ms
+#29:
+OK, 4 rows affected in 6.172ms
+#30:
+OK, 1 row affected in 5.821ms
+#31:
+OK, 1 row affected in 5.972ms
+#32:
+OK, 1 row affected in 4.887ms
+#33:
+OK, 1 row affected in 5.195ms
+#34:
+OK, 1 row affected in 5.151ms
+#35:
+OK, 1 row affected in 5.279ms
+#36:
+OK, 1 row affected in 5.782ms
+#37:
+OK, 1 row affected in 5.365ms
+#38:
+OK, 1 row affected in 7.042ms
+#39:
+OK, 1 row affected in 5.907ms
+#40:
+OK, 1 row affected in 5.855ms
+✓ SQL Script execution completed in 1.679s. 40 statements executed successfully.
+
+
+
+
